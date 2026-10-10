@@ -1,4 +1,5 @@
 | 等级 | 活动 | 免费权益 | 资格与限制 | 有效期 | 官方来源 | 核验日期 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 乙 | 腾讯 WorkBuddy 小程序 · 混元 Hy3 | 官方模型列表标注“限时免费” | 小程序内使用；是否排队、调用上限未披露，因此暂不评甲 | 截止日未披露 | [官方模型列表](https://www.codebuddy.cn/docs/workbuddymini/features/Select-Model) | 2026-10-09 |
-| 丙 | 千问 AI 平台 · 新用户模型赠额 | 文本模型累计超过 7,000 万 Token，通常每个模型独立约 100 万 Token，**不可合并为单模型额度** | 新注册用户；部分账号需完成认证；额度用尽继续调用可能收费，建议开启“用尽即停”；支持 API | 一般自开户或新模型上线起 90 天；不续期 | [官方免费额度规则](https://platform.qianwenai.com/docs/resources/free-quota) | 2026-10-09 |
+| 乙 | 腾讯 WorkBuddy 小程序 · 混元 Hy3 | 官方模型列表标注“限时免费” | 小程序内可选；排队及调用上限未披露，不能据此认定不限量或评甲；不代表 API 免费 | 截止日未披露 | [官方模型列表](https://www.codebuddy.cn/docs/workbuddymini/features/Select-Model) | 2026-10-10 |
+| 丙 | ZCode 新用户 5 天免费试用 | GLM 主力模型每天 300 万 Token、GLM-5-turbo 每天 200 万 Token，5 天合计约 2500 万 Token；各模型及每日额度独立 | 首次使用 ZCode 的新用户；仅客户端；日额度只在试用期内发放，非外部 API 额度；具体模型版本以官方当前客户端为准 | 新用户开始试用后 5 天，期满不再每日赠送 | [ZCode 官方说明](https://zcode.z.ai/en/docs/welcome) | 2026-10-10 |
+| 丙 | 千问 AI 平台 · 新用户模型赠额 | 文本模型独立免费额度累计超过 7000 万 Token，通常每个模型约 100 万 Token，不能合并到同一模型 | 新注册用户，部分账户需完成认证；实时模型 API；免费额度用完继续调用可能产生费用，建议开启“用尽即停” | 一般从开户或对应新模型上线起 90 天；不续期 | [官方免费额度规则](https://platform.qianwenai.com/docs/resources/free-quota) | 2026-10-10 |
